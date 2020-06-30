@@ -62,3 +62,6 @@ crashlytics-build.properties
 Assets/Photon/*
 Assets/Oculus/*
 Assets/Resources/*
+Assets/Plugins/*
+Library/*
+Library
