@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/NetworkLabUnityClient/Scenes/PhotonVoice.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
